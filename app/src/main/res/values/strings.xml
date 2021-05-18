@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="title">Online Reservations</string>
+    <string name="nameText">Name:</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="numPax">No Of Pax</string>
+    <string name="dateText">Date: </string>
+    <string name="timeText">Time: </string>
+    <string name="additional">Location Requests: </string>
+    <string name="rb1">Indoor</string>
+    <string name="rb2">Outdoor</string>
+    <string name="rb3">Smoking area</string>
+    <string name="reserveBtn">RESERVE</string>
+    <string name="resetBtn">RESET</string>
+</resources>
